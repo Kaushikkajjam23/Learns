@@ -1,0 +1,11 @@
+---
+Overview:  
+Classification in Machine Learning (ML) is a type of supervised learning where the goal is to predict the category or class of a given data point. It involves training a model to learn from labeled data, where the input data has corresponding output labels. Once the model is trained, it can categorize new, unseen data into predefined classes.
+
+Subtopics:  
+1. **Labeled Data**: Classification requires datasets where each input is paired with a known output label, such as "cat" or "dog" in an image dataset. This labeled data is used for training the model.  
+
+2. **Types of Classification**: Classification tasks can be binary (two classes, e.g., "spam" or "not spam") or multi-class (more than two classes, e.g., "apple," "banana," "cherry").  
+
+3. **Common Algorithms**: Popular algorithms for classification include Decision Trees, Logistic Regression, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), and Neural Networks, each suited for different types of problems.  
+---

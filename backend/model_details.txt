@@ -1,0 +1,2787 @@
+==================================================
+Model ID: dall-e-3
+Display Name: OpenAI DALL-E 3
+Display Version: 3
+Description:
+DALL-E is a machine-learning model developed by OpenAI. It is designed to produce images from language descriptions, a process known as text-to-image descriptions or prompts.
+
+The system can generate realistic images just from a description of the scene. DALL-E is a neural network algorithm that creates accurate pictures from short phrases provided by the user. It comprehends language through textual descriptions and from “learning” information provided in its datasets by users and developers.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: True
+  - system_prompt: False
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Image Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0
+  - completion: 0.04
+==================================================
+Model ID: gpt-35-turbo-0125
+Display Name: OpenAI GPT-3.5 Turbo (Legacy)
+Display Version: 0125
+Description:
+GPT-3.5 is an advanced language model developed by OpenAI, built upon its predecessor, GPT-3.
+
+It encompasses enhanced capabilities allowing for more nuanced and context-aware text generation. With an architecture based on deep learning and transformers, GPT-3.5 can understand and generate human-like text across diverse topics, responding to prompts with greater accuracy and reduced biases compared to earlier versions. This model serves a wide range of applications from content creation and summarization to language translation and chatbots.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000005
+  - completion: 0.0000015
+==================================================
+Model ID: gpt-35-turbo-1106
+Display Name: OpenAI GPT-3.5 Turbo (Legacy)
+Display Version: 1106
+Description:
+GPT-3.5 is an advanced language model developed by OpenAI, built upon its predecessor, GPT-3.
+
+It encompasses enhanced capabilities allowing for more nuanced and context-aware text generation. With an architecture based on deep learning and transformers, GPT-3.5 can understand and generate human-like text across diverse topics, responding to prompts with greater accuracy and reduced biases compared to earlier versions. This model serves a wide range of applications from content creation and summarization to language translation and chatbots.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000001
+  - completion: 0.000002
+==================================================
+Model ID: gpt-35-turbo
+Display Name: OpenAI GPT-3.5 Turbo (Legacy)
+Display Version: Latest
+Description:
+GPT-3.5 is an advanced language model developed by OpenAI, built upon its predecessor, GPT-3.
+
+It encompasses enhanced capabilities allowing for more nuanced and context-aware text generation. With an architecture based on deep learning and transformers, GPT-3.5 can understand and generate human-like text across diverse topics, responding to prompts with greater accuracy and reduced biases compared to earlier versions. This model serves a wide range of applications from content creation and summarization to language translation and chatbots.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000005
+  - completion: 0.0000015
+==================================================
+Model ID: gpt-4
+Display Name: OpenAI GPT-4 Latest
+Display Version: GPT-4o 2024-11-20
+Description:
+GPT-4o is a multimodal generative pre-trained transformer developed by OpenAI and released in November 2024.
+
+This latest version features a context window of 128K tokens and supports generating up to 16.4K tokens per request. It is designed to provide more natural, engaging, and tailored writing, improving relevance and readability. Additionally, GPT-4o excels in handling complex queries with minimal resources, offering deeper insights and more thorough responses when working with uploaded files.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions, Structured Output
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000025
+  - completion: 0.00001
+==================================================
+Model ID: gpt-4-turbo-2024-04-09
+Display Name: OpenAI GPT-4 Turbo (Legacy)
+Display Version: 2024-04-09
+Description:
+GPT-4 Turbo is an advanced version of the GPT-4 language model developed by OpenAI.
+
+It was released as a major refinement of the existing model, with improvements in efficiency and speed [1]. GPT-4 Turbo introduced several new features, including faster responses, support for longer inputs up to 128K tokens in length, and improved knowledge of recent events [2]. It also has a larger context window compared to its predecessor, which allows it to analyze and remember more information
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00001
+  - completion: 0.00003
+==================================================
+Model ID: gpt-4-turbo
+Display Name: OpenAI GPT-4 Turbo (Legacy)
+Display Version: Latest
+Description:
+GPT-4 Turbo is an advanced version of the GPT-4 language model developed by OpenAI.
+
+It was released as a major refinement of the existing model, with improvements in efficiency and speed [1]. GPT-4 Turbo introduced several new features, including faster responses, support for longer inputs up to 128K tokens in length, and improved knowledge of recent events [2]. It also has a larger context window compared to its predecessor, which allows it to analyze and remember more information
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00001
+  - completion: 0.00003
+==================================================
+Model ID: gpt-4o-2024-05-13
+Display Name: OpenAI GPT-4o
+Display Version: 2024-05-13
+Description:
+GPT-4o is a multimodal generative pre-trained transformer developed by OpenAI and released in May 2024.
+
+It is OpenAI new flagship model that integrates text, vision, and audio capabilities, setting a new standard for generative and conversational AI experiences. It is engineered for speed and efficiency, with an advanced ability to handle complex queries with minimal resources.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000005
+  - completion: 0.000015
+==================================================
+Model ID: gpt-4o-2024-08-06
+Display Name: OpenAI GPT-4o
+Display Version: 2024-08-06
+Description:
+GPT-4o is a multimodal generative pre-trained transformer developed by OpenAI and released in May 2024.
+
+It is OpenAI new flagship model that integrates text, vision, and audio capabilities, setting a new standard for generative and conversational AI experiences. It is engineered for speed and efficiency, with an advanced ability to handle complex queries with minimal resources.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions, Structured Output
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000275
+  - completion: 0.000011
+==================================================
+Model ID: gpt-4o-2024-11-20
+Display Name: OpenAI GPT-4o
+Display Version: 2024-11-20
+Description:
+GPT-4o is a multimodal generative pre-trained transformer developed by OpenAI and released in November 2024.
+
+This latest version features a context window of 128K tokens and supports generating up to 16.4K tokens per request. It is designed to provide more natural, engaging, and tailored writing, improving relevance and readability. Additionally, GPT-4o excels in handling complex queries with minimal resources, offering deeper insights and more thorough responses when working with uploaded files.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions, Structured Output
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000025
+  - completion: 0.00001
+==================================================
+Model ID: gpt-4o
+Display Name: OpenAI GPT-4o
+Display Version: Latest
+Description:
+GPT-4o is a multimodal generative pre-trained transformer developed by OpenAI and released in November 2024.
+
+This latest version features a context window of 128K tokens and supports generating up to 16.4K tokens per request. It is designed to provide more natural, engaging, and tailored writing, improving relevance and readability. Additionally, GPT-4o excels in handling complex queries with minimal resources, offering deeper insights and more thorough responses when working with uploaded files.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions, Structured Output
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000025
+  - completion: 0.00001
+==================================================
+Model ID: gpt-4o-mini-2024-07-18
+Display Name: OpenAI GPT-4o mini
+Display Version: 2024-07-18
+Description:
+The GPT-4o mini model is a smaller, faster, and cheaper version of the GPT-4o AI model developed by OpenAI.
+
+It is designed to replace the GPT-3.5 Turbo model, which was the default for free ChatGPT users and the cheapest option for developers building applications on OpenAI technology
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions, Structured Output
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000000165
+  - completion: 0.00000066
+==================================================
+Model ID: gpt-4.5-preview-2025-02-27
+Display Name: OpenAI GPT-4.5
+Display Version: 2025-02-27 (Preview)
+Description:
+<span style="color:#F76464;">Limited capacity.</span> GPT-4.5-preview is the latest general purpose model with deep world knowledge and better understanding of user intent that makes it good at creative tasks and agentic planning.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Structured Output, Functions, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000075
+  - completion: 0.00015
+==================================================
+Model ID: gpt-4.1-2025-04-14
+Display Name: OpenAI GPT-4.1
+Display Version: 2025-04-14
+Description:
+The latest iteration of the GPT-4o model, trained to excel at coding and instruction-following tasks. This model will improve the quality of agentic workflows and accelerate the productivity of developers across all scenarios.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Structured Output, Functions, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000002
+  - completion: 0.000008
+==================================================
+Model ID: gpt-4.1-nano-2025-04-14
+Display Name: OpenAI GPT-4.1 nano
+Display Version: 2025-04-14
+Description:
+A fast and efficient version of GPT-4.1, optimized for coding and instruction-following in resource-constrained environments.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Structured Output, Functions, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000001
+  - completion: 0.0000004
+==================================================
+Model ID: gpt-4.1-mini-2025-04-14
+Display Name: OpenAI GPT-4.1 mini
+Display Version: 2025-04-14
+Description:
+A lightweight version of GPT-4.1, ideal for quick coding tasks, simple instruction following, and applications where low latency is critical
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Structured Output, Functions, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000004
+  - completion: 0.0000016
+==================================================
+Model ID: text-embedding-ada-002
+Display Name: N/A
+Display Version: N/A
+Description:
+N/A
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: 
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: False
+  - embeddings: True
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000001
+==================================================
+Model ID: text-embedding-3-small-1
+Display Name: N/A
+Display Version: N/A
+Description:
+N/A
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: 
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: False
+  - embeddings: True
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000002
+==================================================
+Model ID: text-embedding-3-large-1
+Display Name: N/A
+Display Version: N/A
+Description:
+N/A
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: 
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: False
+  - embeddings: True
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000013
+==================================================
+Model ID: amazon.titan-tg1-large
+Display Name: Amazon Titan (Legacy)
+Display Version: TG1 Large (Legacy)
+Description:
+The amazon.titan-tg1-large is a model from Amazon Titan, a family of Foundation Models pretrained by AWS for various use cases.
+
+It is suitable for text generation. Amazon Titan models are powerful, general-purpose models built to support a variety of use cases. They are pretrained by AWS on large datasets .
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000013
+  - completion: 0.0000017
+==================================================
+Model ID: anthropic.claude
+Display Name: Anthropic Claude (Legacy)
+Display Version: 3 Sonnet
+Description:
+Anthropic's Claude 3 Sonnet is a model that offers a combination of performance and speed for efficient, high-throughput tasks.
+
+It sets new industry benchmarks for graduate-level reasoning, undergraduate-level knowledge, and coding proficiency. It shows marked improvement in grasping nuance, humor, and complex instructions, and is exceptional at writing high-quality content with a natural, relatable tone 
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000300
+  - completion: 0.00001500
+==================================================
+Model ID: anthropic.claude-instant-v1
+Display Name: Anthropic Claude (Legacy)
+Display Version: 1.2 Instant
+Description:
+Anthropic's Claude Instant 1.2 is an updated version of their AI model that generates text. It is designed to be faster, cheaper, and more accessible than its predecessor, Claude Instant 1.1.
+
+The model incorporates the strengths of Anthropic's flagship model, Claude 2, and shows significant improvements in areas such as math, coding, reasoning, and safety. For instance, Claude Instant 1.2 scored 58.7% on a coding benchmark and 86.7% on a set of math questions, which are improvements over the scores of Claude Instant 1.1. The model is also capable of generating longer, more structured responses, following formatting instructions better, and showing improvements in quote extraction, multilingual capabilities, and question answering
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000163
+  - completion: 0.00000551
+==================================================
+Model ID: anthropic.claude-v2
+Display Name: Anthropic Claude (Legacy)
+Display Version: 2.0
+Description:
+Claude 2 is a large language model-powered chatbot developed by Anthropic, an AI company.
+
+It is an improvement on Anthropics previous AI model, Claude 1.3, particularly in terms of its ability to write code based on written instructions and the size of its “context window,” which means users can now input entire books and ask Claude 2 questions based on their content. These improvements suggest Claude 2 is now in the same league as GPT-3.5 and GPT-4, the models which power OpenAI’s ChatGPT. However, like OpenAI’s models, Claude 2 still exhibits stereotype bias and ‘hallucinates’ — in other words, it makes things up.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000800
+  - completion: 0.00002400
+==================================================
+Model ID: anthropic.claude-v2-1
+Display Name: Anthropic Claude (Legacy)
+Display Version: 2.1
+Description:
+Anthropic Claude 2.1 is an advanced version of the large language model-powered chatbot developed by Anthropic, an AI company.
+
+This model is capable of recalling information very well across its 200,000 token context window, which is equivalent to around 500 pages of information. It excels at real-world retrieval tasks across longer contexts. However, it can be reluctant to answer questions based on an individual sentence in a document, especially if that sentence has been injected or is out of place. A minor prompting edit can remove this reluctance and result in excellent performance on these tasks. Claude 2.1 was trained using large amounts of feedback on long document tasks that users find valuable, like summarizing an S-1 length document. This data included real tasks performed on real documents, with Claude being trained to make fewer mistakes and to avoid expressing unsupported claims.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000800
+  - completion: 0.00002400
+==================================================
+Model ID: anthropic.claude-v3-opus
+Display Name: Anthropic Claude 3 Opus
+Display Version: 20240229-v1:0
+Description:
+Anthropic's Claude 3 Opus is part of the Claude 3 model family, which is known for setting new industry benchmarks across a wide range of cognitive tasks.
+
+The Claude 3 family includes three models: Haiku, Sonnet, and Opus, with Opus being the highest-performing model. It is capable of handling complex analysis, longer tasks with many steps, and higher-order math and coding tasks. The default version of Claude 3, Opus, has a context window of 200,000 tokens, but this is being expanded to 1 million for specific use cases
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00001500
+  - completion: 0.00007500
+==================================================
+Model ID: anthropic.claude-v3-sonnet
+Display Name: Anthropic Claude (Legacy)
+Display Version: 3 Sonnet
+Description:
+Anthropic's Claude Sonnet is a model that offers a combination of performance and speed for efficient, high-throughput tasks.
+
+It sets new industry benchmarks for graduate-level reasoning, undergraduate-level knowledge, and coding proficiency. It shows marked improvement in grasping nuance, humor, and complex instructions, and is exceptional at writing high-quality content with a natural, relatable tone 
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000300
+  - completion: 0.00001500
+==================================================
+Model ID: anthropic.claude-v3-5-sonnet-v1
+Display Name: Anthropic Claude 3.5 Sonnet
+Display Version: V1
+Description:
+Anthropic's Claude 3.5 Sonnet is a significant advancement in the field of generative AI and large language models (LLMs).
+
+It is known for its unprecedented intelligence, enhanced speed, and advanced capabilities across various domains. The model sets a new standard for what AI can achieve, with sophisticated reasoning and coding abilities, a commitment to safety, and a focus on user-driven development
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, AWS, Development
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000300
+  - completion: 0.00001500
+==================================================
+Model ID: anthropic.claude-v3-5-sonnet-v2
+Display Name: Anthropic Claude 3.5 Sonnet
+Display Version: V2
+Description:
+Anthropic's Claude 3.5 Sonnet is a significant advancement in the field of generative AI and large language models (LLMs).
+
+It is known for its unprecedented intelligence, enhanced speed, and advanced capabilities across various domains. The model sets a new standard for what AI can achieve, with sophisticated reasoning and coding abilities, a commitment to safety, and a focus on user-driven development
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, AWS, Development
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000300
+  - completion: 0.00001500
+==================================================
+Model ID: anthropic.claude-v3-5-sonnet
+Display Name: Anthropic Claude 3.5 Sonnet
+Display Version: Latest
+Description:
+Anthropic's Claude 3.5 Sonnet is a significant advancement in the field of generative AI and large language models (LLMs).
+
+It is known for its unprecedented intelligence, enhanced speed, and advanced capabilities across various domains. The model sets a new standard for what AI can achieve, with sophisticated reasoning and coding abilities, a commitment to safety, and a focus on user-driven development
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, AWS, Development
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000300
+  - completion: 0.00001500
+==================================================
+Model ID: anthropic.claude-v3-5-haiku
+Display Name: Anthropic Claude 3.5 Haiku
+Display Version: 20241022-v1:0
+Description:
+The new Claude 3.5 Haiku combines rapid response times with improved reasoning capabilities, making it ideal for tasks that require both speed and intelligence. Claude 3.5 Haiku improves on its predecessor and matches the performance of Claude 3 Opus (previously Claude’s largest model). Claude 3.5 Haiku can help with use cases such as fast and accurate code suggestions, highly interactive chatbots that need rapid response times for customer service, e-commerce solutions, and educational platforms.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Continue Supported, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000008
+  - completion: 0.000004
+==================================================
+Model ID: anthropic.claude-v3-haiku
+Display Name: Anthropic Claude (Legacy)
+Display Version: 3 Haiku
+Description:
+Anthropic's Claude 3 Haiku is a state-of-the-art large language model that is part of the Claude 3 foundation model family.
+
+It is the fastest and most compact model in the family, designed for near-instant responsiveness and seamless generative artificial intelligence (AI) experiences that mimic human interactions. It can read a data-dense research paper with charts and graphs in less than three seconds. Claude 3 Haiku has image-to-text vision capabilities, can understand multiple languages besides English, and boasts increased steerability in a 200k context window
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000025
+  - completion: 0.00000125
+==================================================
+Model ID: anthropic.claude-3-7-sonnet-20250219-v1:0
+Display Name: Anthropic Claude 3.7 Sonnet
+Display Version: 20250219-v1:0
+Description:
+Claude 3.7 Sonnet is Anthropic's most intelligent model to date and the first Claude model to offer extended thinking—the ability to solve complex problems with careful, step-by-step reasoning. Anthropic is the first AI lab to introduce a single model where users can balance speed and quality by choosing between standard thinking for near-instant responses or extended thinking or advanced reasoning. Claude 3.7 Sonnet is state-of-the-art for coding, and delivers advancements in computer use, agentic capabilities, complex reasoning, and content generation. With frontier performance and more control over speed, Claude 3.7 Sonnet is the ideal choice for powering AI agents, especially customer-facing agents, and complex AI workflows.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, AWS, Development
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000003
+  - completion: 0.000015
+==================================================
+Model ID: anthropic.claude-3-7-sonnet-20250219-v1:0-with-thinking
+Display Name: Anthropic Claude 3.7 Sonnet
+Display Version: 20250219-v1:0 (with Thinking)
+Description:
+Claude 3.7 Sonnet is Anthropic's most intelligent model to date and the first Claude model to offer extended thinking—the ability to solve complex problems with careful, step-by-step reasoning. Anthropic is the first AI lab to introduce a single model where users can balance speed and quality by choosing between standard thinking for near-instant responses or extended thinking or advanced reasoning. Claude 3.7 Sonnet is state-of-the-art for coding, and delivers advancements in computer use, agentic capabilities, complex reasoning, and content generation. With frontier performance and more control over speed, Claude 3.7 Sonnet is the ideal choice for powering AI agents, especially customer-facing agents, and complex AI workflows.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, AWS, Development
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000003
+  - completion: 0.000015
+==================================================
+Model ID: amazon.nova-pro-v1
+Display Name: Amazon Nova Pro
+Display Version: V1
+Description:
+Amazon Nova Pro is a highly capable multimodal model with the best combination of accuracy, speed, and cost for a wide range of tasks. The capabilities of Amazon Nova Pro, coupled with its industry-leading speed and cost efficiency, makes it a compelling model for almost any task, including Q&A, mathematical reasoning, software development, and AI agents that can execute multistep workflows. In addition to state-of-the-art accuracy on text and visual intelligence benchmarks, Amazon Nova Pro excels at instruction following and agentic workflows as measured by Comprehensive RAG Benchmark (CRAG), the Berkeley Function Calling Leaderboard, and Mind2Web. Current deployment supports only image and text file attachments.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000008
+  - completion: 0.0000032
+==================================================
+Model ID: amazon.nova-lite-v1
+Display Name: Amazon Nova Lite
+Display Version: V1
+Description:
+Amazon Nova Lite is a very low-cost multimodal model that is lightning. The accuracy of Amazon Nova Lite across a breadth of tasks, coupled with its lightning-fast speed, makes it suitable for a wide range of interactive and high-volume applications where cost is a key consideration. Current deployment supports only image and text file attachments.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000006
+  - completion: 0.00000024
+==================================================
+Model ID: amazon.nova-micro-v1
+Display Name: Amazon Nova Micro
+Display Version: V1
+Description:
+Amazon Nova Micro is a text-only model that delivers the lowest latency responses at very low cost. It is highly performant at language understanding, translation, reasoning, code completion, brainstorming, and mathematical problem-solving. With its generation speed of over 200 tokens per second, Amazon Nova Micro is ideal for applications that require fast responses.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000000035
+  - completion: 0.00000014
+==================================================
+Model ID: stability.stable-diffusion-xl
+Display Name: StabilityAI Stable Diffusion XL (Legacy)
+Display Version: Legacy
+Description:
+Stable Diffusion XL, also known as SDXL, is the next-generation open weights AI image synthesis model released by Stability AI.
+
+It represents a significant advancement in image generation capabilities compared to previous versions of Stable Diffusion, offering higher-resolution imagery and more detailed outputs. It is an open-source diffusion model that is a significant upgrade to Stable Diffusion v2.1. The model focuses on being versatile for creating images in a wide variety of styles and allows people to fine-tune it easily according to their aesthetic preferences
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: False
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Image Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000
+  - completion: 0.018
+==================================================
+Model ID: stability.stable-image-core-v1:0
+Display Name: StabilityAI Stable Image Core (Legacy)
+Display Version: Legacy
+Description:
+Our primary service for text-to-image generation, Stable Image Core represents the best quality achievable at high speed.
+
+No prompt engineering is required! Try asking for a style, a scene, or a character, and see what you get.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Image Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000
+  - completion: 0.12
+==================================================
+Model ID: stability.stable-image-ultra-v1:0
+Display Name: StabilityAI Stable Image Ultra
+Display Version: V1
+Description:
+Our most advanced text to image generation service, Stable Image Ultra creates the highest quality images with unprecedented prompt understanding.
+
+Ultra excels in typography, complex compositions, dynamic lighting, vibrant hues, and overall cohesion and structure of an art piece. Made from the most advanced models, including Stable Diffusion 3.5, Ultra offers the best of the Stable Diffusion ecosystem
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Image Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000
+  - completion: 0.32
+==================================================
+Model ID: stability.sd3-large-v1:0
+Display Name: StabilityAI Stable Diffusion 3 Large
+Display Version: V1
+Description:
+At 8 billion parameters, with superior quality and prompt adherence, this base model is the most powerful in the Stable Diffusion family.
+
+This model is ideal for professional use cases at 1 megapixel resolution
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Image Generation, AWS
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000
+  - completion: 0.14
+==================================================
+Model ID: rlab-mistral-instruct
+Display Name: Mistral Small
+Display Version: 2501-FP8
+Description:
+Mistral Small 3 Instruct: a latency-optimized 24B-parameter model released under the Apache 2.0 license.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Self-Hosted
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+==================================================
+Model ID: rlab-llama-large-Instruct
+Display Name: Meta Llama 3.1 70B Nemotron
+Display Version: Nemotron-70B-Instruct-HF-FP8-dynamic
+Description:
+This model is a quantized version of Llama-3.1-Nemotron-70B-Instruct. It was evaluated on a several tasks to assess the its quality in comparison to the unquatized model, including multiple-choice, math reasoning, and open-ended text generation.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Self-Hosted
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+==================================================
+Model ID: DeepSeek-R1-Distill-Llama-70B-FP8
+Display Name: DeepSeek R1-Distill Llama-70B
+Display Version: Llama-70B-FP8
+Description:
+DeepSeek-R1-Distill models are fine-tuned based on open-source models, using samples generated by DeepSeek-R1. DeepSeek R1 is an advanced AI reasoning model developed by the Chinese company DeepSeek, which has gained global attention for its performance and open-source approach. Released on January 20, 2025, it is the first publicly available model to rival OpenAI's o1 in reasoning tasks. Usage Recommendations: 1) Set the temperature within the range of 0.5-0.7. 2) Avoid adding a system prompt; all instructions should be contained within the user prompt.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Self-Hosted, Reasoning
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+==================================================
+Model ID: DeepSeek-R1-Distill-Qwen-14B
+Display Name: DeepSeek R1-Distill Qwen-14B
+Display Version: Qwen-14B
+Description:
+DeepSeek-R1-Distill models are fine-tuned based on open-source models, using samples generated by DeepSeek-R1. DeepSeek R1 is an advanced AI reasoning model developed by the Chinese company DeepSeek, which has gained global attention for its performance and open-source approach. Released on January 20, 2025, it is the first publicly available model to rival OpenAI's o1 in reasoning tasks. Usage Recommendations: 1) Set the temperature within the range of 0.5-0.7. 2) Avoid adding a system prompt; all instructions should be contained within the user prompt.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Self-Hosted, Reasoning
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+==================================================
+Model ID: rlab-qwq-32b
+Display Name: Qwen QwQ 32B
+Display Version: 2025-03-05
+Description:
+Qwen QwQ is the 32B reasoning model of the Qwen series.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Self-Hosted, Reasoning
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+==================================================
+Model ID: azure-ai-vision-embeddings
+Display Name: N/A
+Display Version: N/A
+Description:
+N/A
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: 
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: False
+  - embeddings: True
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0009
+==================================================
+Model ID: gemini-1.5-pro-google-search
+Display Name: Google Gemini 1.5 Pro
+Display Version: v002, With Google Search Grounding
+Description:
+Gemini 1.5 Pro is a multimodal AI model developed by Google DeepMind. It is a follow-up release to the initial debut of Google's Gemini 1.0 and provides an upgrade over the 1.0 models with better performance and longer context length.
+
+The model uses a multimodal mixture-of-experts (MoE) approach, which allows it to optimize the most relevant expert pathways in its neural network for results. It can handle a large context window of up to 1 million tokens, enabling it to reason and understand larger volumes of data than other models with lower token limits. Gemini 1.5 Pro can process text, images, audio, and video, and can be used for various tasks such as building conversational AI assistants, analyzing and generating code, and more
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Continue Supported, Google Search Grounding, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.0000025
+  - completion: 0.0000075
+==================================================
+Model ID: gemini-1.5-pro-preview-0409
+Display Name: Google Gemini 1.5 Pro
+Display Version: Preview-0409
+Description:
+Gemini 1.5 Pro is a multimodal AI model developed by Google DeepMind. It is a follow-up release to the initial debut of Google's Gemini 1.0 and provides an upgrade over the 1.0 models with better performance and longer context length.
+
+The model uses a multimodal mixture-of-experts (MoE) approach, which allows it to optimize the most relevant expert pathways in its neural network for results. It can handle a large context window of up to 1 million tokens, enabling it to reason and understand larger volumes of data than other models with lower token limits. Gemini 1.5 Pro can process text, images, audio, and video, and can be used for various tasks such as building conversational AI assistants, analyzing and generating code, and more
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.00000125
+  - completion: 0.0000025
+==================================================
+Model ID: gemini-1.5-pro-001
+Display Name: Google Gemini 1.5 Pro
+Display Version: 001
+Description:
+Gemini 1.5 Pro is a multimodal AI model developed by Google DeepMind. It is a follow-up release to the initial debut of Google's Gemini 1.0 and provides an upgrade over the 1.0 models with better performance and longer context length.
+
+The model uses a multimodal mixture-of-experts (MoE) approach, which allows it to optimize the most relevant expert pathways in its neural network for results. It can handle a large context window of up to 1 million tokens, enabling it to reason and understand larger volumes of data than other models with lower token limits. Gemini 1.5 Pro can process text, images, audio, and video, and can be used for various tasks such as building conversational AI assistants, analyzing and generating code, and more
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.00000125
+  - completion: 0.0000025
+==================================================
+Model ID: gemini-1.5-pro-002
+Display Name: Google Gemini 1.5 Pro
+Display Version: 002
+Description:
+Gemini 1.5 Pro is a multimodal AI model developed by Google DeepMind. It is a follow-up release to the initial debut of Google's Gemini 1.0 and provides an upgrade over the 1.0 models with better performance and longer context length.
+
+The model uses a multimodal mixture-of-experts (MoE) approach, which allows it to optimize the most relevant expert pathways in its neural network for results. It can handle a large context window of up to 1 million tokens, enabling it to reason and understand larger volumes of data than other models with lower token limits. Gemini 1.5 Pro can process text, images, audio, and video, and can be used for various tasks such as building conversational AI assistants, analyzing and generating code, and more
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.00000125
+  - completion: 0.0000025
+==================================================
+Model ID: gemini-1.5-flash-001
+Display Name: Google Gemini 1.5 Flash
+Display Version: 001
+Description:
+Gemini 1.5 Flash is a fast and versatile multimodal model designed for scaling across diverse tasks.
+
+It was purpose-built as the fastest, most cost-efficient model yet for high volume tasks, at scale, to address developers feedback asking for lower latency and cost. It has a higher rate limit of 1000 requests per minute (RPM) and there is no limit on the number of requests per day
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.00000001875
+  - completion: 0.000000075
+==================================================
+Model ID: gemini-1.5-flash-002
+Display Name: Google Gemini 1.5 Flash
+Display Version: 002
+Description:
+Gemini 1.5 Flash is a fast and versatile multimodal model designed for scaling across diverse tasks.
+
+It was purpose-built as the fastest, most cost-efficient model yet for high volume tasks, at scale, to address developers feedback asking for lower latency and cost. It has a higher rate limit of 1000 requests per minute (RPM) and there is no limit on the number of requests per day
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.00000001875
+  - completion: 0.000000075
+==================================================
+Model ID: gemini-2.0-flash-lite
+Display Name: Google Gemini 2.0 Flash
+Display Version: Lite
+Description:
+
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Continue Supported, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.000000075
+  - completion: 0.0000003
+==================================================
+Model ID: gemini-2.0-flash
+Display Name: Google Gemini 2.0 Flash
+Display Version: Latest
+Description:
+
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Continue Supported, Google Search Grounding, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.00000015
+  - completion: 0.0000003
+==================================================
+Model ID: gemini-2.0-flash-exp
+Display Name: Google Gemini 2.0 Flash
+Display Version: Experimental
+Description:
+
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Continue Supported, Google Search Grounding, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.00000025
+  - completion: 0.00000075
+==================================================
+Model ID: gemini-2.0-flash-exp-google-search
+Display Name: Google Gemini 2.0 Flash
+Display Version: Experimental, With Google Search Grounding
+Description:
+
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Continue Supported, Google Search Grounding, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.00000025
+  - completion: 0.00000075
+==================================================
+Model ID: gemini-2.5-pro-preview-03-25
+Display Name: Google Gemini 2.5 Pro
+Display Version: Preview 03-25
+Description:
+
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Google Search Grounding, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.00000125
+  - completion: 0.00001
+==================================================
+Model ID: gemini-2.5-pro-exp-03-25
+Display Name: Google Gemini 2.5 Pro
+Display Version: Experimental 03-25
+Description:
+
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Google Search Grounding, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0
+  - completion: 0
+==================================================
+Model ID: imagegeneration@005
+Display Name: Google Imagen
+Display Version: 005
+Description:
+Google Imagen 005 is a text-to-image diffusion technology developed by Google. It is capable of delivering photorealistic outputs that are aligned and consistent with the users prompt.
+
+Imagen can generate more lifelike images by using the natural distribution of its training data, instead of adopting a pre-programmed style. It is integrated with SynthID, a toolkit for watermarking and identifying AI-generated content. Imagen also has image editing capabilities like 'inpainting' and 'outpainting', which allow users to generate new content directly into the original image or extend the original image beyond its borders. This technology is available in Google Cloud’s Vertex AI, Gemini, Search Generative Experience, and a Google Labs experiment called ImageFX
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: False
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Image Generation, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0
+  - completion: 0.02
+==================================================
+Model ID: text-embedding-005
+Display Name: N/A
+Display Version: N/A
+Description:
+N/A
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: 
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: False
+  - embeddings: True
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.000000025347
+==================================================
+Model ID: claude-3-5-haiku@20241022
+Display Name: Anthropic Claude (VertexAI)
+Display Version: 3.5 Haiku
+Description:
+The new Claude 3.5 Haiku combines rapid response times with improved reasoning capabilities, making it ideal for tasks that require both speed and intelligence. Claude 3.5 Haiku improves on its predecessor and matches the performance of Claude 3 Opus (previously Claude’s largest model). Claude 3.5 Haiku can help with use cases such as fast and accurate code suggestions, highly interactive chatbots that need rapid response times for customer service, e-commerce solutions, and educational platforms.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Continue Supported, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000025
+  - completion: 0.00000125
+==================================================
+Model ID: claude-3-5-sonnet-v2@latest
+Display Name: Anthropic Claude (VertexAI)
+Display Version: 3.5 Sonnet-latest
+Description:
+Anthropic's Claude 3.5 Sonnet is a significant advancement in the field of generative AI and large language models (LLMs).
+
+It is known for its unprecedented intelligence, enhanced speed, and advanced capabilities across various domains. The model sets a new standard for what AI can achieve, with sophisticated reasoning and coding abilities, a commitment to safety, and a focus on user-driven development
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Continue Supported, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000300
+  - completion: 0.00001500
+==================================================
+Model ID: claude-3-5-sonnet@20240620
+Display Name: Anthropic Claude (VertexAI)
+Display Version: 3.5 Sonnet-v1
+Description:
+Anthropic's Claude 3.5 Sonnet is a significant advancement in the field of generative AI and large language models (LLMs).
+
+It is known for its unprecedented intelligence, enhanced speed, and advanced capabilities across various domains. The model sets a new standard for what AI can achieve, with sophisticated reasoning and coding abilities, a commitment to safety, and a focus on user-driven development
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Continue Supported, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000300
+  - completion: 0.00001500
+==================================================
+Model ID: claude-3-5-sonnet-v2@20241022
+Display Name: Anthropic Claude (VertexAI)
+Display Version: 3.5 Sonnet-v2
+Description:
+Anthropic's Claude 3.5 Sonnet is a significant advancement in the field of generative AI and large language models (LLMs).
+
+It is known for its unprecedented intelligence, enhanced speed, and advanced capabilities across various domains. The model sets a new standard for what AI can achieve, with sophisticated reasoning and coding abilities, a commitment to safety, and a focus on user-driven development
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Continue Supported, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000300
+  - completion: 0.00001500
+==================================================
+Model ID: claude-3-7-sonnet@20250219
+Display Name: Anthropic Claude (VertexAI)
+Display Version: 3.7 Sonnet
+Description:
+Claude 3.7 Sonnet is Anthropic's most intelligent model to date and the first Claude model to offer extended thinking—the ability to solve complex problems with careful, step-by-step reasoning. Anthropic is the first AI lab to introduce a single model where users can balance speed and quality by choosing between standard thinking for near-instant responses or extended thinking for advanced reasoning.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Continue Supported, GCP
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000003
+  - completion: 0.000015
+==================================================
+Model ID: textembedding-gecko@001
+Display Name: N/A
+Display Version: N/A
+Description:
+N/A
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: 
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: False
+  - embeddings: True
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.0000001
+==================================================
+Model ID: text-multilingual-embedding-002
+Display Name: N/A
+Display Version: N/A
+Description:
+N/A
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: 
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: False
+  - embeddings: True
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: char_without_whitespace
+  - prompt: 0.000000025347
+==================================================
+Model ID: deepseek-r1
+Display Name: DeepSeek R1
+Display Version: Latest
+Description:
+DeepSeek R1 is an advanced AI reasoning model developed by the Chinese company DeepSeek, which has gained global attention for its performance and open-source approach. Released on January 20, 2025, it is the first publicly available model to rival OpenAI's o1 in reasoning tasks. **Usage Recommendations:** 1) Set the temperature within the range of 0.5-0.7. 2) Avoid adding a system prompt; all instructions should be contained within the user prompt.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Azure, Reasoning
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+==================================================
+Model ID: o1-mini-2024-09-12
+Display Name: OpenAI o1-mini
+Display Version: 2024-09-12
+Description:
+OpenAI o1-mini is a smaller and faster version of the OpenAI o1 reasoning model. O-serries models spend more time processing and understanding the user's request, making them exceptionally strong in areas like science, coding, and math compared to previous iterations.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: False
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: False
+  - addons: False
+
+Description Keywords: Text Generation, Reasoning, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000121
+  - completion: 0.00000484
+==================================================
+Model ID: o1-preview-2024-09-12
+Display Name: OpenAI o1-preview (Legacy)
+Display Version: 2024-09-12
+Description:
+<span style="color:#F76464;">Preview.</span> Previous version of OpenAI o1 model, please use latest release version.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: False
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: False
+  - addons: False
+
+Description Keywords: Text Generation, Reasoning, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000165
+  - completion: 0.000066
+==================================================
+Model ID: o3-mini-2025-01-31
+Display Name: OpenAI o3-mini
+Display Version: 2025-01-31
+Description:
+The OpenAI o3-mini model, launched on January 31, 2025, is a state-of-the-art language model designed to enhance reasoning tasks, particularly in STEM fields. It offers significant improvements in speed, cost efficiency, and safety over its predecessors. The o3-mini processes responses faster and is 63% cheaper to run than the o1-mini model, making it a cost-effective solution for developers and AI enthusiasts. While it excels in complex reasoning tasks, it does not support vision-related capabilities, focusing instead on delivering precise and efficient performance in technical applications.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: False
+  - addons: False
+
+Description Keywords: Text Generation, Structured Output, Functions, Azure, Reasoning, Development
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000011
+  - completion: 0.0000044
+==================================================
+Model ID: o3-2025-04-16
+Display Name: OpenAI o3
+Display Version: 2025-04-16
+Description:
+Most powerful reasoning model that pushes the frontier across coding, math, science, visual perception, and more
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: False
+  - addons: False
+
+Description Keywords: Text Generation, Image Recognition, Structured Output, Functions, Azure, Reasoning
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00001
+  - completion: 0.00004
+==================================================
+Model ID: o4-mini-2025-04-16
+Display Name: OpenAI o4-mini
+Display Version: 2025-04-16
+Description:
+Smaller model optimized for fast, cost-efficient reasoning - it achieves remarkable performance for its size and cost, particularly in math, coding
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: False
+  - addons: False
+
+Description Keywords: Text Generation, Image Recognition, Structured Output, Functions, Azure, Reasoning
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000011
+  - completion: 0.0000044
+==================================================
+Model ID: o1-2024-12-17
+Display Name: OpenAI o1
+Display Version: 2024-12-17
+Description:
+OpenAI o1 model is specifically designed to tackle reasoning and problem-solving tasks with increased focus and capability. Model spends more time processing and understanding the user's request, making them exceptionally strong in areas like science, coding, and math compared to previous iterations.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: False
+  - addons: False
+
+Description Keywords: Text Generation, Structured Output, Functions, Reasoning, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000015
+  - completion: 0.00006

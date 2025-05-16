@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Topic Explorer</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        h1 { color: #333; }
+        form { margin-bottom: 20px; }
+        label { display: block; margin-bottom: 5px; }
+        input, select, button { padding: 8px; margin-bottom: 10px; }
+        button { background-color: #4CAF50; color: white; border: none; cursor: pointer; }
+        button:hover { background-color: #45a049; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Topic Explorer</h1>
+        <form id="topicForm">
+            <label for="topic">Enter a topic:</label>
+            <input type="text" id="topic" name="topic" required>
+
+            <label for="level">Select difficulty level:</label>
+            <select id="level" name="level">
+                <option value="beginner">Beginner</option>
+                <option value="intermediate">Intermediate</option>
+                <option value="advanced">Advanced</option>
+            </select>
+
+            <button type="submit">Submit</button>
+        </form>
+
+        <div id="results" style="display: none;">
+            <h2>Results</h2>
+            <div id="overview"></div>
+            <h3>Subtopics</h3>
+            <ul id="subtopics"></ul>
+            <h3>Learning Roadmap</h3>
+            <div id="roadmap"></div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('topicForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const topic = document.getElementById('topic').value;
+            const level = document.getElementById('level').value;
+
+            try {
+                const response = await fetch('/api/topics', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ topic, level }),
+                });
+
+                const data = await response.json();
+
+                // Display results
+                document.getElementById('overview').textContent = data.overview;
+
+                const subtopicsList = document.getElementById('subtopics');
+                subtopicsList.innerHTML = '';
+                data.subtopics.forEach(subtopic => {
+                    const li = document.createElement('li');
+                    li.textContent = subtopic;
+                    subtopicsList.appendChild(li);
+                });
+
+                document.getElementById('roadmap').textContent = data.roadmap;
+                document.getElementById('results').style.display = 'block';
+            } catch (error) {
+                console.error('Error:', error);
+                alert('An error occurred while processing your request.');
+            }
+        });
+    </script>
+</body>
+</html>

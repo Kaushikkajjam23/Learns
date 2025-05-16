@@ -1,0 +1,96 @@
+/* src/components/NotFound.css */
+.not-found-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+  background-color: #f8f9fa;
+  text-align: center;
+}
+
+.not-found-content {
+  max-width: 500px;
+  padding: 40px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.not-found-code {
+  font-size: 120px;
+  font-weight: 700;
+  color: #2196f3;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+
+.not-found-container h1 {
+  font-size: 32px;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+.not-found-container p {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.not-found-actions {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+.not-found-actions button {
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border: none;
+}
+
+.primary-button {
+  background-color: #2196f3;
+  color: white;
+}
+
+.primary-button:hover {
+  background-color: #1976d2;
+}
+
+.secondary-button {
+  background-color: #f5f5f5;
+  color: #333;
+  border: 1px solid #ddd !important;
+}
+
+.secondary-button:hover {
+  background-color: #e0e0e0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .not-found-code {
+    font-size: 80px;
+  }
+  
+  .not-found-container h1 {
+    font-size: 24px;
+  }
+  
+  .not-found-container p {
+    font-size: 16px;
+  }
+  
+  .not-found-actions {
+    flex-direction: column;
+  }
+  
+  .not-found-actions button {
+    width: 100%;
+  }
+}

@@ -1,0 +1,626 @@
+(venv) C:\Users\kajjam_kaushik\ai_personal\dynamic-coders\backend>python api.py
+==================================================
+Model ID: dall-e-3
+Display Name: OpenAI DALL-E 3
+Display Version: 3
+Description:
+DALL-E is a machine-learning model developed by OpenAI. It is designed to produce images from language descriptions, a process known as text-to-image descriptions or prompts.
+
+The system can generate realistic images just from a description of the scene. DALL-E is a neural network algorithm that creates accurate pictures from short phrases provided by the user. It comprehends language through textual descriptions and from “learning” information provided in its datasets by users and developers.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: True
+  - system_prompt: False
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Image Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0
+  - completion: 0.04
+==================================================
+Model ID: gpt-35-turbo-0125
+Display Name: OpenAI GPT-3.5 Turbo (Legacy)
+Display Version: 0125
+Description:
+GPT-3.5 is an advanced language model developed by OpenAI, built upon its predecessor, GPT-3.
+
+It encompasses enhanced capabilities allowing for more nuanced and context-aware text generation. With an architecture based on deep learning and transformers, GPT-3.5 can understand and generate human-like text across diverse topics, responding to prompts with greater accuracy and reduced biases compared to earlier versions. This model serves a wide range of applications from content creation and summarization to language translation and chatbots.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000005
+  - completion: 0.0000015
+==================================================
+Model ID: gpt-35-turbo-1106
+Display Name: OpenAI GPT-3.5 Turbo (Legacy)
+Display Version: 1106
+Description:
+GPT-3.5 is an advanced language model developed by OpenAI, built upon its predecessor, GPT-3.
+
+It encompasses enhanced capabilities allowing for more nuanced and context-aware text generation. With an architecture based on deep learning and transformers, GPT-3.5 can understand and generate human-like text across diverse topics, responding to prompts with greater accuracy and reduced biases compared to earlier versions. This model serves a wide range of applications from content creation and summarization to language translation and chatbots.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000001
+  - completion: 0.000002
+==================================================
+Model ID: gpt-35-turbo
+Display Name: OpenAI GPT-3.5 Turbo (Legacy)
+Display Version: Latest
+Description:
+GPT-3.5 is an advanced language model developed by OpenAI, built upon its predecessor, GPT-3.
+
+It encompasses enhanced capabilities allowing for more nuanced and context-aware text generation. With an architecture based on deep learning and transformers, GPT-3.5 can understand and generate human-like text across diverse topics, responding to prompts with greater accuracy and reduced biases compared to earlier versions. This model serves a wide range of applications from content creation and summarization to language translation and chatbots.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000005
+  - completion: 0.0000015
+==================================================
+Model ID: gpt-4
+Display Name: OpenAI GPT-4 Latest
+Display Version: GPT-4o 2024-11-20
+Description:
+GPT-4o is a multimodal generative pre-trained transformer developed by OpenAI and released in November 2024.
+
+This latest version features a context window of 128K tokens and supports generating up to 16.4K tokens per request. It is designed to provide more natural, engaging, and tailored writing, improving relevance and readability. Additionally, GPT-4o excels in handling complex queries with minimal resources, offering deeper insights and more thorough responses when working with uploaded files.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions, Structured Output
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000025
+  - completion: 0.00001
+==================================================
+Model ID: gpt-4-turbo-2024-04-09
+Display Name: OpenAI GPT-4 Turbo (Legacy)
+Display Version: 2024-04-09
+Description:
+GPT-4 Turbo is an advanced version of the GPT-4 language model developed by OpenAI.
+
+It was released as a major refinement of the existing model, with improvements in efficiency and speed [1]. GPT-4 Turbo introduced several new features, including faster responses, support for longer inputs up to 128K tokens in length, and improved knowledge of recent events [2]. It also has a larger context window compared to its predecessor, which allows it to analyze and remember more information
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00001
+  - completion: 0.00003
+==================================================
+Model ID: gpt-4-turbo
+Display Name: OpenAI GPT-4 Turbo (Legacy)
+Display Version: Latest
+Description:
+GPT-4 Turbo is an advanced version of the GPT-4 language model developed by OpenAI.
+
+It was released as a major refinement of the existing model, with improvements in efficiency and speed [1]. GPT-4 Turbo introduced several new features, including faster responses, support for longer inputs up to 128K tokens in length, and improved knowledge of recent events [2]. It also has a larger context window compared to its predecessor, which allows it to analyze and remember more information
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00001
+  - completion: 0.00003
+==================================================
+Model ID: gpt-4o-2024-05-13
+Display Name: OpenAI GPT-4o
+Display Version: 2024-05-13
+Description:
+GPT-4o is a multimodal generative pre-trained transformer developed by OpenAI and released in May 2024.
+
+It is OpenAI new flagship model that integrates text, vision, and audio capabilities, setting a new standard for generative and conversational AI experiences. It is engineered for speed and efficiency, with an advanced ability to handle complex queries with minimal resources.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000005
+  - completion: 0.000015
+==================================================
+Model ID: gpt-4o-2024-08-06
+Display Name: OpenAI GPT-4o
+Display Version: 2024-08-06
+Description:
+GPT-4o is a multimodal generative pre-trained transformer developed by OpenAI and released in May 2024.
+
+It is OpenAI new flagship model that integrates text, vision, and audio capabilities, setting a new standard for generative and conversational AI experiences. It is engineered for speed and efficiency, with an advanced ability to handle complex queries with minimal resources.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions, Structured Output
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.00000275
+  - completion: 0.000011
+==================================================
+Model ID: gpt-4o-2024-11-20
+Display Name: OpenAI GPT-4o
+Display Version: 2024-11-20
+Description:
+GPT-4o is a multimodal generative pre-trained transformer developed by OpenAI and released in November 2024.
+
+This latest version features a context window of 128K tokens and supports generating up to 16.4K tokens per request. It is designed to provide more natural, engaging, and tailored writing, improving relevance and readability. Additionally, GPT-4o excels in handling complex queries with minimal resources, offering deeper insights and more thorough responses when working with uploaded files.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions, Structured Output
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000025
+  - completion: 0.00001
+==================================================
+Model ID: gpt-4o
+Display Name: OpenAI GPT-4o
+Display Version: Latest
+Description:
+GPT-4o is a multimodal generative pre-trained transformer developed by OpenAI and released in November 2024.
+
+This latest version features a context window of 128K tokens and supports generating up to 16.4K tokens per request. It is designed to provide more natural, engaging, and tailored writing, improving relevance and readability. Additionally, GPT-4o excels in handling complex queries with minimal resources, offering deeper insights and more thorough responses when working with uploaded files.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions, Structured Output
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000025
+  - completion: 0.00001
+==================================================
+Model ID: gpt-4o-mini-2024-07-18
+Display Name: OpenAI GPT-4o mini
+Display Version: 2024-07-18
+Description:
+The GPT-4o mini model is a smaller, faster, and cheaper version of the GPT-4o AI model developed by OpenAI.
+
+It is designed to replace the GPT-3.5 Turbo model, which was the default for free ChatGPT users and the cheapest option for developers building applications on OpenAI technology
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Azure, Functions, Structured Output
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000000165
+  - completion: 0.00000066
+==================================================
+Model ID: gpt-4.5-preview-2025-02-27
+Display Name: OpenAI GPT-4.5
+Display Version: 2025-02-27 (Preview)
+Description:
+<span style="color:#F76464;">Limited capacity.</span> GPT-4.5-preview is the latest general purpose model with deep world knowledge and better understanding of user intent that makes it good at creative tasks and agentic planning.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Structured Output, Functions, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000075
+  - completion: 0.00015
+==================================================
+Model ID: gpt-4.1-2025-04-14
+Display Name: OpenAI GPT-4.1
+Display Version: 2025-04-14
+Description:
+The latest iteration of the GPT-4o model, trained to excel at coding and instruction-following tasks. This model will improve the quality of agentic workflows and accelerate the productivity of developers across all scenarios.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Structured Output, Functions, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.000002
+  - completion: 0.000008
+==================================================
+Model ID: gpt-4.1-nano-2025-04-14
+Display Name: OpenAI GPT-4.1 nano
+Display Version: 2025-04-14
+Description:
+A fast and efficient version of GPT-4.1, optimized for coding and instruction-following in resource-constrained environments.
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Structured Output, Functions, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000001
+  - completion: 0.0000004
+==================================================
+Model ID: gpt-4.1-mini-2025-04-14
+Display Name: OpenAI GPT-4.1 mini
+Display Version: 2025-04-14
+Description:
+A lightweight version of GPT-4.1, ideal for quick coding tasks, simple instruction following, and applications where low latency is critical
+
+Features:
+  - rate: False
+  - tokenize: False
+  - truncate_prompt: False
+  - configuration: False
+  - system_prompt: True
+  - tools: False
+  - seed: False
+  - url_attachments: False
+  - folder_attachments: False
+  - allow_resume: True
+  - accessible_by_per_request_key: True
+  - content_parts: False
+  - temperature: True
+  - addons: True
+
+Description Keywords: Text Generation, Image Recognition, Structured Output, Functions, Azure
+
+Capabilities:
+  - scale_types: ['standard']
+  - completion: False
+  - chat_completion: True
+  - embeddings: False
+  - fine_tune: False
+  - inference: False
+
+Pricing:
+  - unit: token
+  - prompt: 0.0000004
+  - completion: 0.0000016
+==================================================
+Model ID: text-embedding-ada-002
+Traceback (most recent call last):
+  File "C:\Users\kajjam_kaushik\ai_personal\dynamic-coders\backend\api.py", line 17, in <module>
+    print(f"Display Name: {model['display_name']}")
+                           ~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'display_name'
+
+(venv) C:\Users\kajjam_kaushik\ai_personal\dynamic-coders\backend>

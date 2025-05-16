@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# FastAPI + Uvicorn
+.env
+.env.*
+*.sqlite3
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# VSCode
+.vscode/
+
+# Node + Vite + React
+node_modules/
+dist/
+build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+vite.config.ts
+vite.config.js
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: Coverage & test artifacts
+.coverage
+htmlcov/
+pytest_cache/
+*.cover
+
+# Optional: mypy, pyright
+.mypy_cache/
+.pyright/
+.pyre/
+
+# Optional: IDEs
+.idea/
+*.swp
+*.swo
+
+
+backend/.git/
+

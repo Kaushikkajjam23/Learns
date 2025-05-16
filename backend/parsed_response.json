@@ -1,0 +1,9 @@
+{
+  "overview": "---\nOverview:  \nClassification in Machine Learning (ML) is a type of supervised learning where the goal is to predict the category or class of a given data point. It involves training a model to learn from labeled data, where the input data has corresponding output labels. Once the model is trained, it can categorize new, unseen data into predefined classes.",
+  "subtopics": [
+    "**Labeled Data**",
+    "**Types of Classification**",
+    "**Common Algorithms**"
+  ],
+  "roadmap": "Learning Roadmap for Classification in ML:\n\nStep 1: Master **Labeled Data**\nStep 2: Master **Types of Classification**\nStep 3: Master **Common Algorithms**\n"
+}
